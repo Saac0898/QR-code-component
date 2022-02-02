@@ -16,11 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./ScreenshotQRCode.png)
+![](./images/ScreenshotQRCode.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution repository](https://github.com/Saac0898/QR-code-component)
+- [Solution URL](https://saac0898.github.io/QR-code-component/)
 
 ## Built with
 
